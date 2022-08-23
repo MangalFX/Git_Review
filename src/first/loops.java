@@ -4,7 +4,7 @@ public class Loop{
     
     for (int i = 0; i < 5; i++){
       
-  
+  int one = 12;
   
   
   
